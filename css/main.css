@@ -151,8 +151,34 @@
 
 
 .about {
-    border: 1px solid black;
+    height: 650px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 100px;
 }
+
+.about__item {
+    display: flex;
+
+}
+
+.about__item__text h2 {
+    margin: 0px;
+    padding: 0px;
+}
+
+.about__item__text span {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.about__item__img {}
+
+
+
+
+
 
 .service {
     border: 1px solid black;
